@@ -1,0 +1,2 @@
+python3 /home/crimsonchamp/workspace/github.com/Crimsonchamp/ssgenerator/src/main.py
+python3 /home/crimsonchamp/workspace/github.com/Crimsonchamp/ssgenerator/server.py --dir /home/crimsonchamp/workspace/github.com/Crimsonchamp/ssgenerator/public
